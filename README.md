@@ -1,0 +1,2 @@
+# CJK_Characters_Enhancement_for_Mendeley_Windows
+ 改善Mendeley Windows 客户端在中文系统下的显示效果，通过替换宋体为思源黑体。
